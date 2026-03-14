@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "HelloMate",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "BotsNat.aternos.me",
