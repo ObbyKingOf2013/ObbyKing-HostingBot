@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BotsNat.aternos.me",
-    "port": 62197,
+    "port": 56706,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "Welcome to the server",
-        "Please no greifing or stealing",
+        "Please no greifing, but stealing is allowed",
         "Are you part of the team?"
       ]
     },
