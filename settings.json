@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BotsNat.aternos.me",
+    "ip": "BotsNat.aternos.me:56706",
     "port": 56706,
     "version": "",
     "try-creative": false
